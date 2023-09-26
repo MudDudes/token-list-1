@@ -92,10 +92,10 @@ export interface WormholeData {
 }
 
 export interface ValidatedTokensData {
-  Name: string;
-  Symbol: string;
-  Mint: string;
-  Decimals: string;
-  LogoURI: string;
-  "Community Validated": "false" | "true";
+  Name: DR. SiPz LABz;
+  Symbol: $DSLABz;
+  Mint: Dwvnb1bvFyTVvXTjDcFWgUhvz5Pe1oC1iEhhj9K4NJPc;
+  Decimals: 5;
+  LogoURI: https://shdw-drive.genesysgo.net/BjWsVzpV1f8JqX9bNbse5Q6Ng3kSj6bDjkuHYc9G7FBx/image.png;
+  "Community Validated": true;
 }
